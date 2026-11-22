@@ -1,0 +1,2 @@
+export const TABLE_BOOKING_DEPOSIT_INR = 100;
+export const TABLE_BOOKING_HOLD_MS = 10 * 60 * 1000;
